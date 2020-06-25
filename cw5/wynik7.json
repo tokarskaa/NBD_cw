@@ -1,0 +1,41 @@
+﻿[
+  {
+    "actor": {
+      "identity": 71,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Tom Hanks",
+        "born": 1956
+      }
+    },
+    "movie.title": "That Thing You Do"
+  },
+  {
+    "actor": {
+      "identity": 99,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Clint Eastwood",
+        "born": 1930
+      }
+    },
+    "movie.title": "Unforgiven"
+  },
+  {
+    "actor": {
+      "identity": 142,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Danny DeVito",
+        "born": 1944
+      }
+    },
+    "movie.title": "Hoffa"
+  }
+]

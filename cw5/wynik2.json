@@ -1,0 +1,117 @@
+﻿[
+  {
+    "hugo": {
+      "identity": 4,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Hugo Weaving",
+        "born": 1960
+      }
+    },
+    "hugoWeavingMovies": {
+      "identity": 105,
+      "labels": [
+        "Movie"
+      ],
+      "properties": {
+        "title": "Cloud Atlas",
+        "tagline": "Everything is connected",
+        "released": 2012
+      }
+    }
+  },
+  {
+    "hugo": {
+      "identity": 4,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Hugo Weaving",
+        "born": 1960
+      }
+    },
+    "hugoWeavingMovies": {
+      "identity": 116,
+      "labels": [
+        "Movie"
+      ],
+      "properties": {
+        "title": "V for Vendetta",
+        "tagline": "Freedom! Forever!",
+        "released": 2006
+      }
+    }
+  },
+  {
+    "hugo": {
+      "identity": 4,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Hugo Weaving",
+        "born": 1960
+      }
+    },
+    "hugoWeavingMovies": {
+      "identity": 10,
+      "labels": [
+        "Movie"
+      ],
+      "properties": {
+        "title": "The Matrix Revolutions",
+        "tagline": "Everything that has a beginning has an end",
+        "released": 2003
+      }
+    }
+  },
+  {
+    "hugo": {
+      "identity": 4,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Hugo Weaving",
+        "born": 1960
+      }
+    },
+    "hugoWeavingMovies": {
+      "identity": 9,
+      "labels": [
+        "Movie"
+      ],
+      "properties": {
+        "title": "The Matrix Reloaded",
+        "tagline": "Free your mind",
+        "released": 2003
+      }
+    }
+  },
+  {
+    "hugo": {
+      "identity": 4,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Hugo Weaving",
+        "born": 1960
+      }
+    },
+    "hugoWeavingMovies": {
+      "identity": 0,
+      "labels": [
+        "Movie"
+      ],
+      "properties": {
+        "title": "The Matrix",
+        "tagline": "Welcome to the Real World",
+        "released": 1999
+      }
+    }
+  }
+]
