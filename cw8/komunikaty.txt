@@ -1,0 +1,9 @@
+start
+client created
+bucket created
+document stored
+document:  {u'scoops': 2, u'flavour': u'strawberry'}
+document changed
+document:  {u'scoops': 3, u'flavour': u'strawberry'}
+document deleted
+document:  None
